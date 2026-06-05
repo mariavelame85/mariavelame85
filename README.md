@@ -18,6 +18,7 @@
   <a href="https://instagram.com/cidavelame85" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-velame/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-<strong> Todos os dias aumente o seu limiar de esforço.</strong> </h1>
-  
+# <img align="left" width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/abccd0c7-9462-4e1b-ac4a-8fa5c4bcd2ae"/> <p style="font-size: 50px; color:dark blue; text-align: right;"> Todos os dias aumente o seu limiar de esforço </p>
+
+
   
