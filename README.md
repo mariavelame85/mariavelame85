@@ -13,11 +13,11 @@
   <img align="center" alt="Cida-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Cida-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-
+ 
   ### Let´s connect!
   <a href="https://instagram.com/cidavelame85" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/maria-velame/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-  <img align="left" width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/5332e283-8e60-4108-ad18-ffd8834152cb" /> <strong> Todos os dias aumente o seu limiar de esforço.</strong>
+<strong> Todos os dias aumente o seu limiar de esforço.</strong> </h1>
   
   
