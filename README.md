@@ -1,6 +1,6 @@
 # <img width="45" height="45" alt="image" src="https://github.com/user-attachments/assets/9878567e-fb03-4484-91b3-18c3205d85e6" /> Maria Ap S Velame
  ### <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/4efa25d0-50b1-4882-af9b-52a47776fb70" />   <strong>Engenheira de Dados Junior </strong>
-<p> Me chamo Maria Ap S Velame, mas podem me chamar de Cida! Sou formada em Publicidade e Propaganda e em 2023 decidi migrar de carreira e fiz o curso de <strong>Banco de Dados</strong> pela Impacta. Hoje trabalho na<strong> IBM Brasil</strong> . A seguir compartilho um pouco das minhas Skill na área de programação, análise de dados e DBA </p>
+<p> Me chamo Maria Ap S Velame, mas podem me chamar de Cida! Sou formada em Publicidade e Propaganda e em 2023 decidi migrar de carreira e fiz o curso de <strong>Banco de Dados</strong> pela Impacta. Hoje trabalho na<strong> IBM Brasil</strong> . A seguir compartilho um pouco das minhas Skill na área de programação, análise de dados e DBA. </p>
 <a href="https://github.com/maria.velame85?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/maria.velame85?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 
